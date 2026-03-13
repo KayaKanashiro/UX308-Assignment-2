@@ -27,6 +27,16 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/products/cafe-latte/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/products/iced-matcha-latte/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/category/uncategorized/
         </loc>
     </url>
